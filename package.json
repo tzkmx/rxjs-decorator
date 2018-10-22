@@ -1,6 +1,6 @@
 {
   "name": "rxjs-decorator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Decorators for RxJS",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
