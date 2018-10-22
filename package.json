@@ -1,8 +1,9 @@
 {
   "name": "rxjs-decorator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Decorators for RxJS",
   "main": "lib/main.js",
+  "typings": "lib/main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ztytotoro/rxjs-decorator/issues"
   },
-  "homepage": "https://github.com/ztytotoro/rxjs-decorator#readme"
+  "homepage": "https://github.com/ztytotoro/rxjs-decorator#readme",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
 }
